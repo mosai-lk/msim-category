@@ -10,7 +10,8 @@
 		225E265AC06812AB692EF8D4F03B0959 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
 		2EC95D995C8C789E086763012E40F8A2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
 		2EFF860A5D983EDF0433602CA986C12D /* msim-category-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B97CE21D0960BE472EFEC3D052A9B6E /* msim-category-dummy.m */; };
-		684D648FBB2174FD10AE4533F58BA469 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BEB86AC938530414D3C1C4104AA4EA8 /* ReplaceMe.m */; };
+		4A9C2A7C1E0A4DA000FCC84F /* msim-catergory.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A9C2A7A1E0A4DA000FCC84F /* msim-catergory.h */; };
+		4A9C2A7D1E0A4DA000FCC84F /* msim-catergory.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A9C2A7B1E0A4DA000FCC84F /* msim-catergory.m */; };
 		92F0A2E8FDA274A3AA952C8D25DEFE64 /* Pods-msim-category_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 893564A0EDC06A2B039683EC6D8626E4 /* Pods-msim-category_Tests-dummy.m */; };
 		9CE8B4C22CB4A3FA9271C1D5BCA6084A /* Pods-msim-category_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 496EB4108571F579EC1B38A2042D9D1B /* Pods-msim-category_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A9AD8BA1D5F96A71EC8CE5F9A4A141B2 /* msim-category-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C16426CB8369D61CFFC43A490368AF8 /* msim-category-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -30,24 +31,25 @@
 		006D7CD9359A2BC2ADCF49D1AC4215E7 /* Pods-msim-category_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-msim-category_Tests-resources.sh"; sourceTree = "<group>"; };
 		0B97CE21D0960BE472EFEC3D052A9B6E /* msim-category-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "msim-category-dummy.m"; sourceTree = "<group>"; };
 		1EC79AE7CE17C13E8800E07615F144FE /* Pods-msim-category_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-msim-category_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		2962E4C26CAA582EEAAB8DBD1E6F89E3 /* msim-category.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "msim-category.modulemap"; sourceTree = "<group>"; };
+		2962E4C26CAA582EEAAB8DBD1E6F89E3 /* msim-category.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "msim-category.modulemap"; sourceTree = "<group>"; };
 		2B1E7954480FF8FFCEAFABD725791A64 /* Pods-msim-category_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-msim-category_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		2E82E355DCE119381C03DECAE37EF47D /* Pods-msim-category_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-msim-category_Tests.modulemap"; sourceTree = "<group>"; };
-		3FDF79F08DB052E2F5AA7F6BC29A7E36 /* msim_category.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = msim_category.framework; path = "msim-category.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2E82E355DCE119381C03DECAE37EF47D /* Pods-msim-category_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-msim-category_Tests.modulemap"; sourceTree = "<group>"; };
+		3FDF79F08DB052E2F5AA7F6BC29A7E36 /* msim_category.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = msim_category.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		496EB4108571F579EC1B38A2042D9D1B /* Pods-msim-category_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-msim-category_Tests-umbrella.h"; sourceTree = "<group>"; };
+		4A9C2A7A1E0A4DA000FCC84F /* msim-catergory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "msim-catergory.h"; sourceTree = "<group>"; };
+		4A9C2A7B1E0A4DA000FCC84F /* msim-catergory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "msim-catergory.m"; sourceTree = "<group>"; };
 		571ED69CA5872E5F611EA08B715AB2A3 /* msim-category-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "msim-category-prefix.pch"; sourceTree = "<group>"; };
 		593A7CC216052125745449F4CF5A5CF0 /* msim-category.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "msim-category.xcconfig"; sourceTree = "<group>"; };
-		6BEB86AC938530414D3C1C4104AA4EA8 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
 		7C16426CB8369D61CFFC43A490368AF8 /* msim-category-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "msim-category-umbrella.h"; sourceTree = "<group>"; };
 		893564A0EDC06A2B039683EC6D8626E4 /* Pods-msim-category_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-msim-category_Tests-dummy.m"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9402E4146EDE079FDEDB799E1CDF92D4 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A207E2EF8228EB603D3B0822639D247C /* Pods-msim-category_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-msim-category_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		B22E7989F486784A8C58CBAD8A5A793A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C6F68DFFBC4957A82B3A090D1D160164 /* Pods-msim-category_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-msim-category_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		D4C3201040CD97DE71B98FDE9702AF67 /* Pods-msim-category_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-msim-category_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		DE03D89997BBBF4ECB4DCED3BA132C93 /* Pods_msim_category_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_msim_category_Tests.framework; path = "Pods-msim-category_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DE03D89997BBBF4ECB4DCED3BA132C93 /* Pods_msim_category_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_msim_category_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,9 +83,9 @@
 		4E8A7B386A80E75865EF8B2E95BB5A7D /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				6BEB86AC938530414D3C1C4104AA4EA8 /* ReplaceMe.m */,
+				4A9C2A7A1E0A4DA000FCC84F /* msim-catergory.h */,
+				4A9C2A7B1E0A4DA000FCC84F /* msim-catergory.m */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -135,7 +137,6 @@
 			children = (
 				4E8A7B386A80E75865EF8B2E95BB5A7D /* Classes */,
 			);
-			name = "msim-category";
 			path = "msim-category";
 			sourceTree = "<group>";
 		};
@@ -190,6 +191,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A9AD8BA1D5F96A71EC8CE5F9A4A141B2 /* msim-category-umbrella.h in Headers */,
+				4A9C2A7C1E0A4DA000FCC84F /* msim-catergory.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,8 +281,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A9C2A7D1E0A4DA000FCC84F /* msim-catergory.m in Sources */,
 				2EFF860A5D983EDF0433602CA986C12D /* msim-category-dummy.m in Sources */,
-				684D648FBB2174FD10AE4533F58BA469 /* ReplaceMe.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
