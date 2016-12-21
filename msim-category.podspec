@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'msim-category/Classes/**/*'
+  s.source_files = 'msim-category/msim-category/Classes/**/*'
   
   # s.resource_bundles = {
   #   'msim-category' => ['msim-category/Assets/*.png']
