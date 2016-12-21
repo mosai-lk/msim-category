@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # msim-category
 
 [![CI Status](http://img.shields.io/travis/leikai/msim-category.svg?style=flat)](https://travis-ci.org/leikai/msim-category)
@@ -28,6 +27,4 @@ leikai, leikai@mosainet.com
 ## License
 
 msim-category is available under the MIT license. See the LICENSE file for more info.
-=======
 # msim-category
->>>>>>> c06f3784fda01121676920e4fc9a4fb92da80030
