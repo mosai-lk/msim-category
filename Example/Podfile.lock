@@ -1,0 +1,16 @@
+PODS:
+  - msim-category (0.1.0)
+
+DEPENDENCIES:
+  - msim-category (from `../`)
+
+EXTERNAL SOURCES:
+  msim-category:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  msim-category: fd6df49260cac5f7cccb49548cff03f7433d2ff0
+
+PODFILE CHECKSUM: 01a0c270e531f17e7a74d4bb5b04efbba0b25da4
+
+COCOAPODS: 1.2.0.beta.1

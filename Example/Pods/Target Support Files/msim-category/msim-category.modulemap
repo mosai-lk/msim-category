@@ -1,0 +1,6 @@
+framework module msim_category {
+  umbrella header "msim-category-umbrella.h"
+
+  export *
+  module * { export * }
+}
