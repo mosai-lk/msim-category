@@ -1,0 +1,6 @@
+use_frameworks!
+target 'msim-category_Tests' do
+  pod 'msim-category', :path => '../'
+  
+  
+end
