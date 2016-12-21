@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.summary          = 'msim-category.'
 
   s.description      = <<-DESC
-                        category
+                        mosai im category
                        DESC
 
   s.homepage         = 'https://github.com/mosai-lk/msim-category'
